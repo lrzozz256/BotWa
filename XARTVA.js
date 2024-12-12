@@ -243,40 +243,11 @@ const tek = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "Power OF XARTVA⚡",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: tek,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "Simple bot WhatsApp by OzzyDev",
-      mentionedJid: owner,
-      isForwarded: true
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: tek
+}, { quoted: m })
 }
 break
 //=================================================//
@@ -312,40 +283,11 @@ const owteks = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "🗿",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: owteks,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "OWNER MENU",
-      mentionedJid: owner,
-      isForwarded: true
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: owteks
+}, { quoted: m })
 }
 break
 //=================================================//
@@ -399,40 +341,11 @@ const bteks = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "☠️",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: bteks,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "BUG MENU",
-      mentionedJid: owner,
-      isForwarded: true,
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: bteks
+}, { quoted: m })
 }
 break
 //=================================================//
@@ -1131,40 +1044,11 @@ const smenu = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "####",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: smenu,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "BUG MENU",
-      mentionedJid: owner,
-      isForwarded: true,
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: smenu
+}, { quoted: m })
 }
 break
 //=================================================//
@@ -1200,40 +1084,11 @@ const tmenu = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "$_$",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: tmenu,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "$_$",
-      mentionedJid: owner,
-      isForwarded: true
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: tmenu
+}, { quoted: m })
 }
 break
 //=================================================//
@@ -1267,40 +1122,11 @@ const gcmenu = `
 ┗━━━━━━━━━━━━━━━━━
 `
 xartva.sendMessage(m?.chat, {
-  document: fs.readFileSync("./README.md"),
-  jpegThumbnail: fs.readFileSync("./lib/thumb/XARTVA.jpg"),
-  fileName: "RyuzenZznz",
-  fileLength: 99999999999999,
-  pageCount: "10000",
-  mimetype: 'application/msword',
-  caption: gcmenu,
-  contextInfo: {
-    mentionedJid: [m?.sender],
-    forwardingScore: 99999999,
-    isForwarded: true,
-    externalAdReply: {
-      containsAutoReply: true,
-      mediaType: 1,
-      mediaUrl: thumb,
-      renderLargerThumbnail: true,
-      showAdAttribution: true,
-      sourceUrl: 'https://t.me/lrzozz',
-      thumbnailUrl: thumb,
-      title: botname,
-      body: "4444",
-      mentionedJid: owner,
-      isForwarded: true
-    },
-    forwardedNewsletterMessageInfo: {
-      newsletterJid: "12036331944147954@newsletter",
-      newsletterName: botname,
-      serverMessageId: 143
-    },
-    businessMessageForwardInfo: {
-      businessOwnerJid: xartva.decodeJid(xartva.user.id)
-    }
-  }
-});
+  image: {
+    url: "https://l.top4top.io/p_3265i2jbk9.jpg"
+  },
+  caption: gcmenu
+}, { quoted: m })
 }
 break
 //=================================================//
